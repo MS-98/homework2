@@ -1,0 +1,18 @@
+body {
+	background-color: #EDCB96;
+}
+
+h1 {
+	text-align: center;
+	font-size: 300%;
+	color: #1C1B24;
+}
+
+p {
+	position: fixed;
+	top: 85px;
+	left: 850px;
+	text-align: center;
+	font-size: 150%;
+	line-height: 40px;
+}
